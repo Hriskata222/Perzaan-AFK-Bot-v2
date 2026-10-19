@@ -8,7 +8,7 @@
   "server": {
     "ip": "SELSKOTOSMP.aternos.me",
     "port": 19928,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
